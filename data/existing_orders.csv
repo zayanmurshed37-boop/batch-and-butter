@@ -1,0 +1,4 @@
+order,customer,item,pickup_day
+#101,Demo Customer A,1 cake,Mon 23 Nov
+#102,Demo Customer B,2 dozen cupcakes,Wed 25 Nov
+#103,Demo Customer C,1 cake,Sat 28 Nov

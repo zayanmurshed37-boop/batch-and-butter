@@ -1,0 +1,15 @@
+# Local order records and database sidecars
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+# Python and operating-system caches
+__pycache__/
+*.py[cod]
+.DS_Store
+# Local settings and credentials
+.env
+.env.*
+.codex/
+.agents/
+.aws/
